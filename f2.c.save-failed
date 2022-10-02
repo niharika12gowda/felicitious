@@ -1,0 +1,8 @@
+#include<stdio.h>
+
+int disp()
+{
+    int x=0;
+    x++;
+    printf("%d",x);
+}

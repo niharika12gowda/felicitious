@@ -1,0 +1,9 @@
+#include<stdio.h>
+extern int disp();
+int x=10;
+void main()
+{
+    printf("%d",disp());
+
+}
+
